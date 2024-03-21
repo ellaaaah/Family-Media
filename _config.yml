@@ -19,13 +19,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 ##########
 # SITE SETTINGS
 #
-# Eder Siblings
-title: CollectionBuilder-GH 
-# Family is Love 
-tagline: a template for creating simple digital exhibits
+# 
+title: Eder Siblings
+# Family is Love
+tagline: Family is Love
 # A memory lane of Siblings
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: A memory lane of Siblings
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 

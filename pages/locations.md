@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.locations-fields
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
-Word size is determined by frequency and all words link to a corresponding collection search.
+The repository is mainly located in Surigao City.
+Specifically, it is created in the home of Eder family in Bagong Silang 2 , Brgy. Washington, S.C.

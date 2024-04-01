@@ -12,14 +12,14 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
-## About the Collection
+## About the Repository
 
-T from: 
+Welcome to the Eder Siblings Picture Repository, a curated collection of moments shared by the Eder siblings through the years. This repository is a celebration of family bonds, cherished memories, and the joy of growing up together: 
 
-- a 
-- a 
+- Our mission is to preserve and showcase the special moments and milestones in the lives of the Eder siblings, capturing the essence of their unique journey as a family. 
+- Our vision for this repository is to continue adding new memories as the Eder siblings embark on new chapters in their lives. We hope that this collection will serve as a source of inspiration and joy for all who view it.
 
-Th. 
+The repository features pictures of the four Eder siblings: Emily, Ethan, Emma, and Evan. From childhood adventures to family gatherings, these images reflect the love, laughter, and camaraderie that define their relationship. 
 
 F.
 

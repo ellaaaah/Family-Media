@@ -11,4 +11,4 @@ cloud-fields: site.data.theme.subjects-fields
 ## Browse Subjects
 
 Select a category from our curated list or search for specific keywords to find pictures related to your interests.
-Discover the joy of reliving special sibling bonds through our curated collection today!.
+Discover the joy of reliving special sibling bonds through our curated collection today!

@@ -10,5 +10,5 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Select a category from our curated list or search for specific keywords to find pictures related to your interests.
+Discover the joy of reliving special sibling bonds through our curated collection today!.

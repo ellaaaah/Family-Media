@@ -27,9 +27,7 @@ The repository features pictures of the four Eder siblings: Ellah, Elyza, Noah, 
 The creator gratefully acknowledge the contribution of all individuals who shared their precious memories and moments with us, making this repository a cherished collection of sibling bonds and experiences. The willingness to preserve and celebrate these special connections is deeply appreciated.
 
 ## Creator's Biography
-
  <a href="https://www.facebook.com/ederellah/" target="_blank" rel="noopener" title="CollectionBuilder">
                         <img src="{{ '/assets/img/428607333_424923646558930_5992134149296559704_n.jpg' | relative_url }}" class="img-fluid" alt="CollectionBuilder logo" >
                     </a>
-
 The creator of the repository is an undegraduate of Bachelor of Library Information Science. This respository serves an requirement for the course subject "Digital Libraries and Preservation".  Creating a repository is essential for efficient knowledge management, collaboration, and risk mitigation. By centralizing information and resources, organizations can ensure easy access, version control, and consistency while reducing the risk of data loss. Additionally, repositories promote collaboration, facilitate compliance with regulations, and foster a culture of knowledge sharing and learning. In essence, a repository serves as a cornerstone for organizational efficiency, innovation, and success.

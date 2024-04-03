@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="fammed3" %}
 
-{% include feature/nav-menu.html sections="About the Repository;Acknowledgement" %}
+{% include feature/nav-menu.html sections="About the Repository;Acknowledgement;Creator's Biography" %}
 
 ## About the Repository
 
@@ -21,8 +21,8 @@ Welcome to the Eder Siblings Picture Repository, a curated collection of moments
 
 The repository features pictures of the four Eder siblings: Ellah, Elyza, Noah, Elisse and Nino. From childhood adventures to family gatherings, these images reflect the love, laughter, and camaraderie that define their relationship. 
 
-## Acknowledgement 
-We gratefully acknowledge the contribution of all individuals who shared their precious memories and moments with us, making this repository a cherished collection of sibling bonds and experiences. Your willingness to preserve and celebrate these special connections is deeply appreciated.
+## Acknowledgement
+The creator gratefully acknowledge the contribution of all individuals who shared their precious memories and moments with us, making this repository a cherished collection of sibling bonds and experiences. The willingness to preserve and celebrate these special connections is deeply appreciated.
 
--
--
+## Creator's Biography
+The creator of the repository is an undegraduate of Bachelor of Library Information Science. This respository serves an requirement for the course subject "Digital Libraries and Preservation".  Creating a repository is essential for efficient knowledge management, collaboration, and risk mitigation. By centralizing information and resources, organizations can ensure easy access, version control, and consistency while reducing the risk of data loss. Additionally, repositories promote collaboration, facilitate compliance with regulations, and foster a culture of knowledge sharing and learning. In essence, a repository serves as a cornerstone for organizational efficiency, innovation, and success.

@@ -14,6 +14,8 @@ credits: true
 
 ## About the Repository
 
+{% include feature/image.html objectid="fammed5" %}
+
 Welcome to the Eder Siblings Picture Repository, a curated collection of moments shared by the Eder siblings through the years. This repository is a celebration of family bonds, cherished memories, and the joy of growing up together: 
 
 - Our mission is to preserve and showcase the special moments and milestones in the lives of the Eder siblings, capturing the essence of their unique journey as a family. 

@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="fammed3" %}
 
-{% include feature/nav-menu.html sections="About the Repository;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Repository;Acknowledgement" %}
 
 ## About the Repository
 
@@ -20,3 +20,9 @@ Welcome to the Eder Siblings Picture Repository, a curated collection of moments
 - Our vision for this repository is to continue adding new memories as the Eder siblings embark on new chapters in their lives. We hope that this collection will serve as a source of inspiration and joy for all who view it.
 
 The repository features pictures of the four Eder siblings: Ellah, Elyza, Noah, Elisse and Nino. From childhood adventures to family gatherings, these images reflect the love, laughter, and camaraderie that define their relationship. 
+
+## Acknowledgement 
+We gratefully acknowledge the contribution of all individuals who shared their precious memories and moments with us, making this repository a cherished collection of sibling bonds and experiences. Your willingness to preserve and celebrate these special connections is deeply appreciated.
+
+-
+-

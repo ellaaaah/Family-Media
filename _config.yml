@@ -14,10 +14,12 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+@@ -18,8 +18,6 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 ##########
 # SITE SETTINGS
+#
+#
 title: OASIS 
 # this description might appear in search result lists, keep around 160 characters max
 tagline: Where Bonds Blossom and Memories Flourish

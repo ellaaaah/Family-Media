@@ -14,9 +14,9 @@ credits: true
 
 ## About the Repository
 
-{% include feature/image.html objectid="fammed5" %}
+{% include feature/image.html objectid="fammed6" %}
 
-Welcome to the Eder Siblings Picture Repository, a curated collection of moments shared by the Eder siblings through the years. This repository is a celebration of family bonds, cherished memories, and the joy of growing up together: 
+Welcome to the Eder Siblings Picture Repository, a curated collection of moments of Ellah Eder and shared bonds with her siblings through the years. This repository is a celebration of family bonds, cherished memories, and the joy of growing up together: 
 
 - Our mission is to preserve and showcase the special moments and milestones in the lives of the Eder siblings, capturing the essence of their unique journey as a family. 
 - Our vision for this repository is to continue adding new memories as the Eder siblings embark on new chapters in their lives. We hope that this collection will serve as a source of inspiration and joy for all who view it.

@@ -14,7 +14,7 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /collectionbuilder-gh 
 # location of code, the full url to your github repository
-@@ -18,8 +18,6 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
+source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 
 ##########
 # SITE SETTINGS
@@ -25,9 +25,7 @@ title: OASIS
 tagline: Where Bonds Blossom and Memories Flourish
 
 # this description might appear in search result lists, keep around 160 characters max
-description: Welcome to OASIS, your personal digital repository for memories and connections. Picture a place where cherished moments with your siblings, friends, and classmates come alive.
-Here, each imagery is a chapter of  my life, capturing laughters, adventures, and milestones shared with those who matter to me the most. Whether it is a goofy snapshot with my siblings, a heartfelt group photo with my friends, or a candid shot with classmates during a memorable event, every image holds a piece of my journey.
-This platform is more than just a photo repository; It is a treasure trove of memory lane waiting to be revisited. With OASIS, I am reliving moments the I most love.
+description: treasure trove of cherished moments captured through photographs, showcasing the love, laughter, and bonds shared by the Eder siblings – Ellah, Elyza, Noah, Elisse, and Nino. Explore their journey, from childhood adventures to special milestones, and witness the beauty of family through the lens of these heartwarming snapshots. 
 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: ellaaaah

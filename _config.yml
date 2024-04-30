@@ -18,7 +18,7 @@
 
 ##########
 # SITE SETTINGS
-#
+# title of site appears in banner
 #
 title: OASIS 
 # this description might appear in search result lists, keep around 160 characters max
